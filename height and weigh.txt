@@ -1,0 +1,11 @@
+About Dataset
+The dataset below contains 1035 records of heights and weights for some current and recent Major League Baseball (MLB) Players.
+
+Columns are:
+
+Name: MLB Player Name
+Team: The Baseball team the player was a member of at the time the data was acquired
+Position: Player field position
+Height(inches): Player height in inches
+Weight(pounds): Player weight in pounds
+Age: Player age at time of record
